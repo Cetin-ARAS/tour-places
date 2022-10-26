@@ -3,7 +3,7 @@ import "./Main.scss";
 
 const Main = () => {
   return (
-    <div className='card-container'>Main</div>
+    <div className='card-container'></div>
   )
 }
 
